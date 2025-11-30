@@ -21,6 +21,7 @@ Hi, I’m Chen An. I am a master student at the Institute of Computing Technolog
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 We are champion in the World Model track of the IROS 2025 AGIBOT World Challenge!
+
 <!--
 # 📝 Publications 
 
@@ -43,11 +44,3 @@ Hi, I’m Chen An. I am a master student at the Institute of Computing Technolog
 # 📖 Educations
 - *2024.09 - now*, ICT, CAS.
 - *2020.09 - 2024.06*, Xidian University.
-<!--
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
