@@ -107,3 +107,50 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.experience-box {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.6em;
+    margin: 1.8em 0;
+
+    .experience-box-logo {
+        flex: 0 0 86px;
+        display: flex;
+        justify-content: center;
+
+        img {
+            max-width: 72px;
+            max-height: 86px;
+            object-fit: contain;
+        }
+    }
+
+    .experience-box-text {
+        flex: 1;
+
+        p {
+            margin: 0 0 .55em 0;
+            line-height: 1.45;
+        }
+
+        .experience-date {
+            color: #4f535a;
+            font-size: 1.05em;
+        }
+    }
+}
+
+@media (max-width: 480px) {
+    .experience-box {
+        gap: 1em;
+
+        .experience-box-logo {
+            flex-basis: 64px;
+
+            img {
+                max-width: 56px;
+            }
+        }
+    }
+}
